@@ -1,4 +1,5 @@
 Etsubdink Mekete 1501178
+AI tool:chat gpt
 ##MyLibrary Desktop Application
 This repository contains the source code for "MyLibrary," a Windows desktop application developed in C# using WinForms. It is designed to manage a small library's book inventory and member borrowing records, demonstrating event-driven programming, UI design, and database connectivity with SQL Server LocalDB.
 
